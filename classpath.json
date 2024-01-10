@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "name": "JavaSE-1.8",
+            "classpath": [
+                "bin"
+            ],
+            "sourcepath": [
+                "src"
+            ],
+            "mainClass": "StringFilterMain"
+        }
+    ]
+}
